@@ -5,7 +5,7 @@
 > 整合 Lychee（灯箱 / EXIF / 极简颜值）、Piwigo（分类 / 检索 / 收藏）、FilePress（直链 / 文件元数据）
 > 三家开源相册的优点，收敛成一个 `index.php`。
 
-> **预览地址：** https://pic.worldstip.com/
+
 ---
 
 ## 一、30 秒部署
